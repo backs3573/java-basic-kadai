@@ -6,10 +6,8 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18 {
 		super("一郎");
 	}
 	
-	// 自己紹介の部分を実装を行う
+	// 自己紹介の部分を実装
 	void eachIntroduce() {
 		System.out.println("好きな食べ物はリンゴです");
-	
-	
 	}
 }

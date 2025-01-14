@@ -2,7 +2,6 @@ package kadai_018;
 
 public class KatoExec_Chapter18 {
 	public static void main(String[] args) {
-		//自己紹介をまとめて出す
 		KatoTaro_Chapter18 tarou = new KatoTaro_Chapter18();
 		tarou.execIntroduce();
 		
@@ -12,5 +11,4 @@ public class KatoExec_Chapter18 {
 		KatoHanako_Chapter18 hanako = new KatoHanako_Chapter18();
 		hanako.execIntroduce();
 	}
-
 }
